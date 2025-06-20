@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1736327137 source:c:\users\admin\desktop\proiect ip\te rog mergi\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<random>
+	"meniu.h"
+
+1736323842 c:\users\admin\desktop\proiect ip\te rog mergi\meniu.h
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1737106517 source:c:\users\admin\desktop\proiect ip\gobblet gobblers\main.cpp
+	<iostream>
+	<graphics.h>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	<random>
+	"meniu.h"
+	<fstream>
+
+1737103450 c:\users\admin\desktop\proiect ip\gobblet gobblers\meniu.h
+	<iostream>
+	<graphics.h>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
